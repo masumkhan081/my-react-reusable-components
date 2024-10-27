@@ -1,6 +1,6 @@
 # My React Reusable Components
 
-A collection of reusable React components designed to accelerate development and maintain consistent styling across multiple projects.
+A personal collection of reusable React components designed to accelerate development and maintain consistent styling across multiple projects.
 
 ## Available Components
 
